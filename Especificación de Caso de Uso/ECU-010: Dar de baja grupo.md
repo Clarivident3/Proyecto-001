@@ -23,18 +23,18 @@ El profesor puede dar de baja a un grupo del sistema de asistencia una vez que e
 ## Flujo normal de eventos
 
 1. El profesor selecciona "Dar de baja grupo"
-2. El sistema desplega la lista de grupos a los que el profesor esta asignado
+2. El sistema despliega la lista de grupos a los que el profesor esta asignado
 3. Selecciona el grupo que desea dar de baja
-4. El sistema muestra la informacion del grupo y el boton "Dar de baja"
-5. El sistema pregunta si esta seguro de dar de baja el grupo seleccionado
+4. El sistema muestra la información del grupo y el botón "Dar de baja"
+5. El sistema pregunta si está seguro de dar de baja el grupo seleccionado
 6. El sistema muestra un mensaje indicando el resultado de la operación
 
-## Subflujo-1: En el caso de que el profesor acepte la operacion (paso 5)
+## Subflujo-1: En el caso de que el profesor acepte la operación (paso 5)
 
 1. El grupo es eliminado del sistema de asistencia
 2. El flujo continua en el paso 6
 
-## Subflujo-2: En el caso de que el profesor cancele la operacion (paso 5)
+## Subflujo-2: En el caso de que el profesor cancele la operación (paso 5)
 
 1. El flujo continua en el paso 2
 
@@ -45,4 +45,3 @@ El profesor puede dar de baja a un grupo del sistema de asistencia una vez que e
 ## Postcondiciones 
 
 - El grupo y todos los alumnos que lo conforman son eliminados del sistema.
-  

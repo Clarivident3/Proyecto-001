@@ -38,6 +38,10 @@ El profesor puede dar de baja a un grupo del sistema de asistencia una vez que e
 
 1. El flujo continua en el paso 2
 
+## Subflujo-3: En el caso de que el profesor no tenga grupos asignados (paso 2)
+
+1. El sistema muestra el mensaje "No existen grupos"
+
 ## Postcondiciones 
 
 - El grupo y todos los alumnos que lo conforman son eliminados del sistema.

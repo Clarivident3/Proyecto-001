@@ -5,7 +5,7 @@
 - Ingresar al Sistema
 
 ## Actores
-- Administracion escolar
+- Usuarios
 
 ## Tipo
 - Primario

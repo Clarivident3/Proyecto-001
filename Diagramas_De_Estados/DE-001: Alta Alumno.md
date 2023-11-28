@@ -1,11 +1,1 @@
-@startuml
-[*] --> NoRegistrado : Inicio
-NoRegistrado --> Registrando : Inicia Registro
-Registrando --> Validando : Ingresa Datos
-Validando --> Registrando : Datos Inválidos
-Validando --> Registrado : Datos Válidos
-Registrado --> Registrando : Modificar Datos
-Registrado --> Baja : Dar de Baja
-Baja --> NoRegistrado : Confirmación de Baja
-Registrado --> [*] : Salir
-@enduml
+![Texto Alternativo](https://www.planttext.com/api/plantuml/png/VT0x3i8m30RWFQSmAr8lq05LmC800vMw80QhIOjH6qj9GE8ud84Zz6Aa4NrG7gFjJzQlFx4EZRlKbPYvaweLEBw9m_m8KRI07UzLITOPb0mnR3JbnE9jsx9kr8F2RibYV6rrXXN9tfP6MOGrEhPYk7n-3SBxQtFtw2SUsQoJVzDkML91EPfNXWbUuXd3HmDIXKc4rPTsLgmBCZNcr3nqhoV_scPZI7rs8nAbfI_-2G00)

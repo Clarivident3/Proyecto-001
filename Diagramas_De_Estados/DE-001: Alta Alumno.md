@@ -1,1 +1,2 @@
-![Texto Alternativo](https://www.planttext.com/api/plantuml/png/VT0x3i8m30RWFQSmAr8lq05LmC800vMw80QhIOjH6qj9GE8ud84Zz6Aa4NrG7gFjJzQlFx4EZRlKbPYvaweLEBw9m_m8KRI07UzLITOPb0mnR3JbnE9jsx9kr8F2RibYV6rrXXN9tfP6MOGrEhPYk7n-3SBxQtFtw2SUsQoJVzDkML91EPfNXWbUuXd3HmDIXKc4rPTsLgmBCZNcr3nqhoV_scPZI7rs8nAbfI_-2G00)
+# DE-001: Alta Alumno
+![Texto Alternativo](https://github.com/TtheCrazyMeats/imagenes/blob/main/Alta_alumno.png)

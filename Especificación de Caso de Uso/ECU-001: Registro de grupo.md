@@ -23,14 +23,13 @@ El profesor accede a la funcionalidad "Registrar Nuevo Grupo" en la aplicación.
 1. El profesor navega a la sección de registro de grupos.
 2. Ingresa el nombre de la materia correspondiente al nuevo grupo.
 3. Especifica el número de grupo que identificará a la clase.
-4. Indica el semestre al cual pertenece el grupo.
-5. Define el horario de la materia.
-6. El sistema realiza validaciones para asegurar la integridad de la información ingresada.
-7. Se verifica que no existan otros registros con el mismo número de grupo.
-8. Se verifica la disponibilidad del horario, evitando conflictos con grupos ya existentes.
-9. La información del nuevo grupo se almacena de manera segura en la base de datos.
-10. Se presentan al profesor los detalles completos del grupo recién registrado.
-11. El sistema emite un mensaje de confirmación para informar al profesor sobre el éxito de la operación.
+4. Define el horario de la materia.
+5. El sistema realiza validaciones para asegurar la integridad de la información ingresada.
+6. Se verifica que no existan otros registros con el mismo número de grupo.
+7. Se verifica la disponibilidad del horario, evitando conflictos con grupos ya existentes.
+8. La información del nuevo grupo se almacena de manera segura en la base de datos.
+9. Se presentan al profesor los detalles completos del grupo recién registrado.
+10. El sistema emite un mensaje de confirmación para informar al profesor sobre el éxito de la operación.
 
 ## Subflujo-1: En el caso de que se encuentre otro registro con el mismo numero de grupo
 1. Mostrar un mensaje de error al profesor que indique que ya existe un grupo con el mismo número.

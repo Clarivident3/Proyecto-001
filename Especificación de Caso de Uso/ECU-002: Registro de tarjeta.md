@@ -11,9 +11,9 @@
 - Primario
 
 ## Partes interesadas e intereses:
-- Profesor se describe el proceso mediante el cual un profesor registra tarjetas NFC para su uso en el sistema de asistencia, vinculándolas con estudiantes y sus respectivos grupos.
+- Profesor se describe el proceso mediante el cual un profesor registra tarjetas NFC para su uso en el sistema de asistencia, vinculándolas con estudiantes y sus respectivas materias.
 ## Breve descripción
-Registrar una tarjeta NFC para su uso en el sistema de asistencia (de los estudiantes y sus respectivos grupos).
+Registrar una tarjeta NFC para su uso en el sistema de asistencia (de los estudiantes y sus respectivos materias).
 ## Disparador
 El profesor accede a la funcionalidad "Registrar Tarjeta" en la aplicación.
 ## Precondiciones:
@@ -26,7 +26,7 @@ La tarjeta debe estar disponible para su registro.
 3.	El profesor acerca la tarjeta al dispositivo para permitir la lectura del código NFC.
 4.	El sistema verifica la validez de la tarjeta y su asociación con algún estudiante registrado.
 5.	Si la tarjeta está asociada a un estudiante:
-•	El sistema muestra la información del estudiante (nombre, grupo, etc.).
+•	El sistema muestra la información del estudiante (nombre, materia, etc.).
 •	El profesor confirma el registro de la tarjeta para ese estudiante.
 •	Se registra la tarjeta en la base de datos del sistema como vinculada a ese estudiante.
 6.	Si la tarjeta no está asociada a ningún estudiante:

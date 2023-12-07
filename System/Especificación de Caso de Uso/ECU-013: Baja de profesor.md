@@ -20,9 +20,9 @@ La Administración escolar lleva a cabo el proceso de dar de baja a un profesor 
 - La facultad debe de contar con por lo menos un profesor dado de alta previamente en el sistema
 
 ## Flujo normal de eventos
-1. El administrador accede a la seccion de gestionar de profesores
+1. El administrador accede a la seccion de gestionar profesores
 2. El sistema despliega la lista de profesores existentes en el registro
 3. El administrador selecciona al profesor que desea dar de baja
 4. El sistema despliega los datos del profesor seleccionado 
 5. El administrador selecciona la opción “Dar de baja”
-6. El sistema muestra el resultado de la operación 
+6. El sistema muestra un mensaje con el resultado de la operación 

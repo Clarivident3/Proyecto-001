@@ -1,22 +1,22 @@
-| Num | Concepto | Definicion    |
-|---| ------------ | ------------ |
-|1| Actores|  |
-|2| API|   |
-|3| APK|   |
-|4| Backend|
-|5| Base de Datos|
-|6| Boolean|
-|7| DC|
-|8| DCU|
-|9| DE|
-|10| DS|
-|11| ECU|
-|12| ID|
-|13| int|
-|14| LibNFC|
-|15| NFC|
-|15| Orquestador|
-|16| Overview|
-|17| Sistema|
-|18| String|
-|19| Tajeta MI|
+| Num | Concepto | Definicion   |
+|-----| -------- | ------------ |
+|1| Actores| Entidad externa al sistema que guarda una relación con este y que le demanda una funcionalidad |
+|2| API| Interfaz de programación de aplicaciones  |
+|3| APK| Android Application Package  |
+|4| Backend| Arquitectura interna de un sitio web |
+|5| Base de Datos| Recopilación de datos sistemática y almacenada electrónicamente|
+|6| Boolean| Representa un valor de verdad; es decir, TRUE o FALSE |
+|7| DC| Diagrama de clases |
+|8| DCU| Diagrama de caso de uso | 
+|9| DE| Diagramas de Estado |
+|10| DS| Diagrama de secuencia |
+|11| ECU| Especificación de caso de uso |
+|12| ID| Identificacion |
+|13| int| Tipo de dato entero |
+|14| LibNFC| Biblioteca de comunicación de campo cercano (NFC) |
+|15| NFC| Near Field Communication |
+|15| Orquestador| Pieza de software que permite integrar servicios provenientes de diversas fuentes |
+|16| Overview| Descripcion general |
+|17| Sistema| Conjunto de elementos físicos y lógicos que se encargan de recibir, guardar y procesar datos para luego entregarlos en forma de resultados |
+|18| String| Cadena de caracteres |
+|19| Tajeta MI| Tarjeta de Movilidad Integrada |

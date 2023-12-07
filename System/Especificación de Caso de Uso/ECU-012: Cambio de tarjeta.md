@@ -23,16 +23,11 @@ El profesor puede cambiar la tarjeta que está asignada a los datos de un alumno
 ## Flujo normal de eventos
 1. El sistema despliega la lista de alumnos asignados al profesor
 2. El profesor selecciona la opción “Cambiar tarjeta” en el alumno que desea
-3. El sistema pregunta si está seguro de cambiar la tarjeta del alumno
 4. El profesor escanea la nueva tarjeta de Movilidad Integrada del alumno 
 5. El sistema verifica que el  ID de la tarjeta no exista en el registro
-6. El sistema muestra un mensaje indicando el resultado 
+6. El sistema muestra un mensaje indicando el resultado de la operación
 
-## Subflujo-1: En el caso de que el profesor cancele la operación (paso 3)
-
-1. El flujo continua en el paso 1
-
-## Subflujo-2: En el caso de que el ID de la tarjeta nueva ya se encuentre en el registro (paso 5)
+## Subflujo-1: En el caso de que el ID de la tarjeta nueva ya se encuentre en el registro (paso 5)
 
 1. El sistema no realiza el cambio de tarjeta
 2. El flujo continua en el paso 6

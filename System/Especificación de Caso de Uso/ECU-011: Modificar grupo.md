@@ -35,6 +35,3 @@ El profesor puede modificar los datos que ingresó inicialmente al registrar un 
    2. En caso de repetirse: Los datos del grupo no se modifican
 3. El flujo continua en el paso 6
 
-## Postcondiciones 
-
-- En caso de que la operación se realice exitosamente, los datos del grupo serán modificados de manera permanente

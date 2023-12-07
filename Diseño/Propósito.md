@@ -15,7 +15,7 @@ El sistema debe abordar los siguientes desafíos:
 
 ## Propuesta de Solución:
 
-La propuesta de solución consiste en utilizar un lector NFC portátil que se conectará a una PC. El lector se utilizará para leer la información de la tarjeta NFC del estudiante y enviarla al sistema de registro de asistencia.
+La propuesta de solución consiste en utilizar un teléfono (Android) con lector de NFC. El lector se utilizará para leer la información de la tarjeta NFC del estudiante y enviarla al sistema de registro de asistencia.
 
 El sistema de registro de asistencia almacenará la información de asistencia de los estudiantes en una base de datos. La información de asistencia podrá ser consultada por el profesor.
 

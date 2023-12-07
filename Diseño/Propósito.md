@@ -2,9 +2,11 @@
 
 El objetivo de este proyecto es diseñar e implementar un sistema de registro de asistencia basado en tarjetas NFC. El sistema debe cumplir con los siguientes requerimientos:
 
+- Debe ser aplicativo en Andorid (*IOS) 
 - Debe ser fácil de usar para los estudiantes y los profesores.
 - Debe ser seguro y confiable.
-
+- Debe ser de utilidad para los profesores de la FCA (en el registro de asitencia). 
+- Debe permitir la lectura de tarjetas NFC
 
 ### Desafíos:
 

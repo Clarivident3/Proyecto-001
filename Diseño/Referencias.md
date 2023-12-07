@@ -7,3 +7,4 @@
 |Booch, G., Jacobson, I., & Rumbaugh, J. (1999). El Lenguaje Unificado de Modelado: Guía de Usuario. Madrid, España: Addison-Wesley|
 |Near Field Communication (NFC), de Google. (2023, 20 de julio). Recuperado de https://developer.android.com/develop/connectivity/nfc |
 |ISO. (2022). Sistemas de gestión de la seguridad de la información (SGSI): Requisitos. Norma internacional ISO 27001:2022 |
+|Sistemas operativos: conceptos fundamentales, de Silberschatz, Galvin y Gagne. (2022). McGraw-Hill.|

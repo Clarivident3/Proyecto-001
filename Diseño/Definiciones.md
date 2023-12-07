@@ -23,3 +23,7 @@
 |20| ISO | Organización Internacional de Normalización |
 |21| Disipador|  Reducir la cantidad de información que se transmite |
 |22| Subflujo|  Flujos altertnativos que puede tener el sistema |
+|23| Versión|  Estado o forma particular se encuentra ese algo en un momento dado |
+|24| SO| Es un software fundamental que actúa como intermediario entre el hardware de una computadora y las aplicaciones de software|
+|25| Software| Programas y datos que controlan el funcionamiento de un sistema informático|
+|26| Android| Android es un sistema operativo móvil desarrollado por Google|

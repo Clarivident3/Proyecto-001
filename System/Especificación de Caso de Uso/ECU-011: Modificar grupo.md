@@ -2,7 +2,7 @@
 - UC - 011
 
 # Caso de uso
-- Cambiar grupo
+- Modificar grupo
 
 ## Actores
 - Profesor
@@ -25,7 +25,6 @@ El profesor puede modificar los datos que ingresó inicialmente al registrar un 
 2. El sistema muestra la información del grupo
 3. El profesor selecciona el dato que desea modificar (Materia, ID, Semestre, Horario)
 4. El profesor ingresa el nuevo dato en el campo seleccionado
-5. El sistema pregunta si está seguro de guardar los cambios
 6. El sistema muestra un mensaje con el resultado de la operación 
 
 ## Subflujo-1: En el caso de que el profesor seleccione ID u Horario (paso 3)

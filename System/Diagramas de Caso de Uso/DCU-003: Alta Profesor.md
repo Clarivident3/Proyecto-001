@@ -1,2 +1,2 @@
 # DCU-003: Alta Profesor
-![Texto Alternativo](https://github.com/TtheCrazyMeats/imagenes/blob/main/Alta%20profesor%20dc.jpeg)
+![Texto Alternativo](https://github.com/TtheCrazyMeats/imagenes/blob/main/c%20dar%20de%20alta%20profesores.png)

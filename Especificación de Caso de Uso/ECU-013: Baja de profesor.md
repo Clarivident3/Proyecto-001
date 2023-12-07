@@ -29,16 +29,6 @@ La Administración escolar lleva a cabo el proceso de dar de baja a un profesor 
 7. El sistema solicita confirmación del administrador
 8. El sistema muestra el resultado de la operación 
 
-## Subflujo-1: En el caso de que el administrador cancele la operación (paso 7)
-1. El flujo continua en el paso 5
-
-## Subflujo-2: En el caso de que el administrador confirme la operación (paso 7)
-1. El sistema solicita la contraseña de inicio de sesión del administrador
-2. Si la contraseña es correcta, se da de baja al profesor, eliminando todos sus datos del registro, así como los grupos que tiene asignados
-3. Si la contraseña es incorrecta, se vuelve a solicitar hasta que sea ingresada correctamente
-4. El flujo continua en el paso 8
-
-
 ## Postcondiciones 
 
 - En caso del subflujo 2, el sistema eliminará todos los datos del profesor en cuestión. 

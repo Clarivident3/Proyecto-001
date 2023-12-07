@@ -20,3 +20,4 @@
 |17| Sistema| Conjunto de elementos físicos y lógicos que se encargan de recibir, guardar y procesar datos para luego entregarlos en forma de resultados |
 |18| String| Cadena de caracteres |
 |19| Tajeta MI| Tarjeta de Movilidad Integrada |
+|20| ISO | Organización Internacional de Normalización |

@@ -1,4 +1,4 @@
-|Fuente | 
+|Fuentes | 
 | -------- |
 |Fowler, M. (2023). UML Distilled: A Brief Guide to the Standard Object Modeling Language (4th ed.). Addison-Wesley Professional|
 |Van der Heyde, F. (2013). UML 2.5: Iniciación, ejemplos y ejercicios corregidos. Madrid, España: ENI|

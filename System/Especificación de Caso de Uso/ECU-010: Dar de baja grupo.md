@@ -31,7 +31,7 @@ El profesor puede dar de baja a un grupo del sistema de asistencia una vez que e
 7. El sistema muestra un mensaje indicando que el grupo fue dado de baja exitosamente
 
 
-## Subflujo-3: En el caso de que el profesor no tenga grupos asignados (paso 2)
+## Subflujo-1: En el caso de que el profesor no tenga grupos asignados (paso 2)
 
 1. El sistema muestra el mensaje "No existen grupos"
 

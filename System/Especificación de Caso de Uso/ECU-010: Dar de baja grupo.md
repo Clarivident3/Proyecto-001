@@ -25,18 +25,11 @@ El profesor puede dar de baja a un grupo del sistema de asistencia una vez que e
 1. El profesor selecciona "Dar de baja grupo"
 2. El sistema despliega la lista de grupos a los que el profesor esta asignado
 3. Selecciona el grupo que desea dar de baja
-4. El sistema muestra la información del grupo y el botón "Dar de baja"
-5. El sistema pregunta si está seguro de dar de baja el grupo seleccionado
-6. El sistema muestra un mensaje indicando el resultado de la operación
+4. El sistema muestra la información del grupo
+5. El sistema muestra el botón "Dar de baja"
+6. El profesor selecciona la opcion "Dar de baja"
+7. El sistema muestra un mensaje indicando que el grupo fue dado de baja exitosamente
 
-## Subflujo-1: En el caso de que el profesor acepte la operación (paso 5)
-
-1. El grupo es eliminado del sistema de asistencia
-2. El flujo continua en el paso 6
-
-## Subflujo-2: En el caso de que el profesor cancele la operación (paso 5)
-
-1. El flujo continua en el paso 2
 
 ## Subflujo-3: En el caso de que el profesor no tenga grupos asignados (paso 2)
 

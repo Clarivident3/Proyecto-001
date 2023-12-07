@@ -21,3 +21,5 @@
 |18| String| Cadena de caracteres |
 |19| Tajeta MI| Tarjeta de Movilidad Integrada |
 |20| ISO | Organización Internacional de Normalización |
+|21| Disipador|  Reducir la cantidad de información que se transmite |
+|22| Subflujo|  Flujos altertnativos que puede tener el sistema |

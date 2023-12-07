@@ -1,4 +1,4 @@
-## Que pude realizar el sistema 
+## Que si pude realizar el sistema 
 - El sistema debe llevar un registro de asistencias en tiempo real
 - El sistema debe permitir realizar Altas/Bajas/Cambios de materia
 - El sistema debe permitir realizar Altas/Bajas/Cambios de alumnos

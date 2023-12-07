@@ -26,9 +26,4 @@ La Administración escolar lleva a cabo el proceso de dar de baja a un profesor 
 4. El administrador selecciona al profesor que desea
 5. El sistema despliega los datos del profesor seleccionado 
 6. El administrador selecciona la opción “Dar de baja”
-7. El sistema solicita confirmación del administrador
-8. El sistema muestra el resultado de la operación 
-
-## Postcondiciones 
-
-- En caso del subflujo 2, el sistema eliminará todos los datos del profesor en cuestión. 
+7. El sistema muestra el resultado de la operación 

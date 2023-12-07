@@ -1,4 +1,4 @@
-## Planteamiento del Problema:
+## Propósito:
 
 El objetivo de este proyecto es diseñar e implementar un sistema de registro de asistencia basado en tarjetas NFC. El sistema debe cumplir con los siguientes requerimientos:
 

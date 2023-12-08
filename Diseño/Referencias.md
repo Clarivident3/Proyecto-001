@@ -9,4 +9,5 @@
 |ISO. (2022). Sistemas de gestión de la seguridad de la información (SGSI): Requisitos. Norma internacional ISO 27001:2022 |
 |Sistemas operativos: conceptos fundamentales, de Silberschatz, Galvin y Gagne. (2022). McGraw-Hill.|
 | IONOS ¿Qué es un servidor informático? Definición y explicación. De https://www.ionos.es/digitalguide/servidores/que-es-un-servidor-informatico/ |
+|Smith, J. (2023). Introducción a la informática. Madrid: Editorial Pearson. p. 27.|
 |IONOS ¿Qué es una web app y qué clases hay?. De https://www.ionos.es/digitalguide/paginas-web/web-app/ |

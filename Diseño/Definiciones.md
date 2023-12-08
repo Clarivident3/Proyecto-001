@@ -27,3 +27,6 @@
 |24| SO| Es un software fundamental que actúa como intermediario entre el hardware de una computadora y las aplicaciones de software|
 |25| Software| Programas y datos que controlan el funcionamiento de un sistema informático|
 |26| Android| Android es un sistema operativo móvil desarrollado por Google|
+|27| Web| Sistema que funciona a través de Internet, por el cual se pueden transmitir diversos tipos de datos|
+|28| Servidor| Computadora que proporciona recursos, datos, servicios o programas a otras computadoras, conocidas como clientes, a través de una red|
+|29| App| es un programa de software diseñado para realizar una función específica en un dispositivo electrónico|

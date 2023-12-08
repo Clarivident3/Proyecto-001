@@ -18,7 +18,7 @@ El profesor puede cambiar la tarjeta que está asignada a los datos de un alumno
 
 ## Precondiciones
 
-- El profesor debe tener por lo menos a un alumno asignado en alguno de sus cursos
+- El profesor debe tener por lo menos a un alumno asignado en alguna de sus materias
 
 ## Flujo normal de eventos
 1. El sistema despliega la lista de alumnos asignados al profesor

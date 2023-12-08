@@ -5,6 +5,8 @@
 |Larman, C. (2005). UML y Patrones: Una introducción al análisis y diseño orientado a objetos y al proceso unificado. Madrid, España: Addison-Wesley|
 |Ambler, S., & Constantine, L. (2002). UML 2: Una introducción al lenguaje unificado de modelado. Madrid, España: Addison-Wesley|
 |Booch, G., Jacobson, I., & Rumbaugh, J. (1999). El Lenguaje Unificado de Modelado: Guía de Usuario. Madrid, España: Addison-Wesley|
-|Near Field Communication (NFC), de Google. (2023, 20 de julio). Recuperado de https://developer.android.com/develop/connectivity/nfc |
+|Near Field Communication (NFC), de Google. (2023, 20 de julio). De https://developer.android.com/develop/connectivity/nfc |
 |ISO. (2022). Sistemas de gestión de la seguridad de la información (SGSI): Requisitos. Norma internacional ISO 27001:2022 |
 |Sistemas operativos: conceptos fundamentales, de Silberschatz, Galvin y Gagne. (2022). McGraw-Hill.|
+| IONOS ¿Qué es un servidor informático? Definición y explicación. De https://www.ionos.es/digitalguide/servidores/que-es-un-servidor-informatico/ |
+|IONOS ¿Qué es una web app y qué clases hay?. De https://www.ionos.es/digitalguide/paginas-web/web-app/ |

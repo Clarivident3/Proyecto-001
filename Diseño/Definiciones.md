@@ -30,3 +30,4 @@
 |27| Web| Sistema que funciona a través de Internet, por el cual se pueden transmitir diversos tipos de datos|
 |28| Servidor| Computadora que proporciona recursos, datos, servicios o programas a otras computadoras, conocidas como clientes, a través de una red|
 |29| App| es un programa de software diseñado para realizar una función específica en un dispositivo electrónico|
+|30| Usuario| es una persona o entidad que utiliza un sistema o software|

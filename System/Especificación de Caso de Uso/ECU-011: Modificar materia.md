@@ -33,5 +33,5 @@ El profesor puede modificar los datos que ingresó inicialmente al registrar una
 2. El sistema verifica que los datos ingresados no se repitan en ningúna otra materia
    1. En caso de no repetirse: Los datos de la materia se modifican exitosamente
    2. En caso de repetirse: Los datos de la materia no se modifican
-3. El flujo continua en el paso 6
+3. El flujo continua en el paso 5
 

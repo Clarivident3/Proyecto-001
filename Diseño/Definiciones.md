@@ -33,4 +33,4 @@ Esta incluye términos específicos relacionados con el sistema, junto con sus c
 |027| Web: Sistema que funciona a través de Internet, por el cual se pueden transmitir diversos tipos de datos|
 |028| Servidor: Computadora que proporciona recursos, datos, servicios o programas a otras computadoras, conocidas como clientes, a través de una red|
 |029| App: es un programa de software diseñado para realizar una función específica en un dispositivo electrónico|
-|30| Usuario: es una persona o entidad que utiliza un sistema o software|
+|030| Usuario: es una persona o entidad que utiliza un sistema o software|

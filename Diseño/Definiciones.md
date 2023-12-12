@@ -1,3 +1,6 @@
+## Definiciones
+Esta incluye términos específicos relacionados con el sistema, junto con sus correspondientes definiciones detalladas. Esta práctica facilita la comprensión y comunicación efectiva entre los desarrolladores, usuarios y cualquier otra parte interesada en el sistema, proporcionando una referencia rápida y fácil de entender sobre los elementos clave que componen el sistema y su funcionalidad.
+
 | Num |  Concepto  |
 |-----| ------------- |
 |001| Actores: Entidad externa al sistema que guarda una relación con este y que le demanda una funcionalidad |
@@ -30,4 +33,4 @@
 |027| Web: Sistema que funciona a través de Internet, por el cual se pueden transmitir diversos tipos de datos|
 |028| Servidor: Computadora que proporciona recursos, datos, servicios o programas a otras computadoras, conocidas como clientes, a través de una red|
 |029| App: es un programa de software diseñado para realizar una función específica en un dispositivo electrónico|
-|30| Usuario| es una persona o entidad que utiliza un sistema o software|
+|30| Usuario: es una persona o entidad que utiliza un sistema o software|

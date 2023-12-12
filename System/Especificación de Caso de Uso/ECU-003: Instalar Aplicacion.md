@@ -11,7 +11,7 @@
 - Primario
 
 ## Partes interesadas e intereses:
-- El profesor tiene el interés de instalar la aplicacion para registrar asistencia en sus clases.
+- El profesor tiene el interés de instalar la aplicacion "ClaseCheck" para registrar asistencia en sus clases.
 
 ## Breve descripción
 El profesor instala la aplicacion en su celular para poder registrar asistencia en sus clases mediante el uso de tarjetas de movilidad integrada de la CDMX.
@@ -23,7 +23,7 @@ El profesor instala la aplicacion en su celular para poder registrar asistencia 
 
 ## Flujo normal de eventos
 1. El profesor accede a la tienda de aplicaciones correspondiente a su dispositivo
-2. El profesor busca la aplicacion en la tienda
+2. El profesor busca la aplicacion "ClaseCheck" en el buscador de la tienda
 3. El profesor selecciona la opcion "Instalar"
 4. El sistema inicia el proceso de descarga e instalacion de la aplicacion
 5. El sistema notifica al profesor cuando la instalacion ha finalizado

@@ -11,10 +11,10 @@
 - Primario
 
 ## Partes interesadas e intereses:
-- El profesor tiene el interés de registrar una nueva materia para sus cursos.
+- El profesor tiene el interés de registrar una nueva materia en el sistema
 
 ## Breve descripción
-El profesor puede llevar a cabo el proceso de registro de una nueva materia en el sistema, con la opción de asignar alumnos que ya se encuentren registrados, garantizando un sistema eficiente y en tiempo real.
+El profesor puede llevar a cabo el proceso de registro de una nueva materia en el sistema, con la opción de asignar alumnos que ya se encuentren registrados, garantizando un sistema eficiente.
 
 ## Disparador
 El profesor accede a la funcionalidad "Registrar Nuevo materia" en la aplicación.

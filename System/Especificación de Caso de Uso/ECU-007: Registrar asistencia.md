@@ -1,6 +1,6 @@
 
 # ID
-- UC - 008
+- UC - 007
 
 # Caso de uso
 - Registrar Asistencia

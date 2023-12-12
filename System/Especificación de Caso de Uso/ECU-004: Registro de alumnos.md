@@ -1,5 +1,5 @@
 # ID
-- UC - 005
+- UC - 004
 
 # Caso de uso
 - Registro de alumnos.

@@ -11,9 +11,11 @@
 - Primario
 
 ## Partes interesadas e intereses:
-- Profesor se describe el proceso mediante el cual un profesor registra tarjetas NFC para su uso en el sistema de asistencia, vinculándolas con estudiantes y sus respectivas materias.
+- Profesor interesado en registrar una nueva tarjeta NFC en el sistema. 
+ 
 ## Breve descripción
-Registrar una tarjeta NFC para su uso en el sistema de asistencia (de los estudiantes y sus respectivos materias).
+Se describe el proceso mediante el cual un profesor registra tarjetas NFC para su uso en el sistema de asistencia, vinculándolas con estudiantes y sus respectivas materias.
+
 ## Disparador
 El profesor accede a la funcionalidad "Registrar Tarjeta" en la aplicación.
 ## Precondiciones:

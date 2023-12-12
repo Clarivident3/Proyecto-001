@@ -12,7 +12,7 @@ Permitir realizar Altas/Bajas/Cambios de tarjetas
 
 Llevar un registro de informes en un periodo de tiempo
 
-### El sistema no puede
+### El sistema ClaseCheck no puede
 Registrar un alumno dos veces en la misma materia
 
 Registrar una nueva tarjeta sin antes dar la anterioir de baja

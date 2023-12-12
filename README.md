@@ -7,3 +7,4 @@ Integrantes del equipo:
 - Cordero Tovar Fernando Alexis.
 - Escamilla Cuevas José Octavio.
 - Ramírez Herrera Francisco.
+[![ADK-0001.jpg](https://i.postimg.cc/rySM0w69/ADK-0001.jpg)](https://postimg.cc/MXKhgxpc)

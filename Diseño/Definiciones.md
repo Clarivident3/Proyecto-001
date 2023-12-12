@@ -1,9 +1,9 @@
-| Num |  Definicion   |
+| Num |  Concepto  |
 |-----| ------------- |
 |001| Actores: Entidad externa al sistema que guarda una relación con este y que le demanda una funcionalidad |
 |002| API: Interfaz de programación de aplicaciones  |
 |003| APK: Android Application Package  |
-|004| Class Check: Arquitectura interna de un sitio web |
+|004| Class Check: Nombre del sistema |
 |005| Base de Datos: Recopilación de datos sistemática y almacenada electrónicamente|
 |006| Boolean: Representa un valor de verdad; es decir, TRUE o FALSE |
 |007| DC: Diagrama de clases |

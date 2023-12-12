@@ -1,2 +1,2 @@
-![1](https://github.com/Clarivident3/Proyecto-001/assets/145577399/dda976f0-e501-4d39-ae45-ad44b4380bc6)
-![2](https://github.com/Clarivident3/Proyecto-001/assets/145577399/178ee00c-830b-48ca-86c5-ac951979c31e)
+![2](https://github.com/Clarivident3/Proyecto-001/assets/145577399/162a9be0-077a-4e8f-9496-22bb1e19f387)
+![1](https://github.com/Clarivident3/Proyecto-001/assets/145577399/bc267dad-a7e6-461c-8913-62ad0788ad28)

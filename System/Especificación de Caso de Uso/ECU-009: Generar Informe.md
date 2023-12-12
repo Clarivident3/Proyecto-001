@@ -6,7 +6,7 @@
 - Generar informe de asistencia
 
 ## Actores
-- Porofesor
+- Profesor
 
 ## Tipo
 - Primario
@@ -16,10 +16,6 @@
 
 ## Breve descripción
 El caso de uso muestra como se generan los reportes de asistencia.
-
-## Precondiciones
-1. El profesor debe estar dado de alta en el sistema.
-2. El profesor debe haber accedido al sistema.
 
 ## Flujo normal de eventos
 1. El usuario selecciona la opción "Generar Informe" desde la interfaz principal.

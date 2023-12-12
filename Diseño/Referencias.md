@@ -2,10 +2,11 @@
 
 | Referencias | 
 | ----------- |
-|ISO: NFC son medios de comunicación inalámbricos de radiofrecuencia que se encuentran regulados en ISO-14443 |
-|Android 13: Se hara uso del software Android 13 para la instalación correcta de la app, aunque la version más reciente es Android 14 esta aún se encuentra en beta, para que la app tengra un optimo funcionamiento es necesario tener bien acutalizado el software de nuestro dispositivo |
 | Fuentes | 
 | ------- |
+|ISO: NFC son medios de comunicación inalámbricos de radiofrecuencia que se encuentran regulados en ISO-14443 |
+|Android 13: Se hara uso del software Android 13 para la instalación correcta de la app, aunque la version más reciente es Android 14 esta aún se encuentra en beta, para que la app tengra un optimo funcionamiento es necesario tener bien acutalizado el software de nuestro dispositivo |
+
 |Fowler, M. (2023). UML Distilled: A Brief Guide to the Standard Object Modeling Language (4th ed.). Addison-Wesley Professional|
 |Van der Heyde, F. (2013). UML 2.5: Iniciación, ejemplos y ejercicios corregidos. Madrid, España: ENI|
 |Larman, C. (2005). UML y Patrones: Una introducción al análisis y diseño orientado a objetos y al proceso unificado. Madrid, España: Addison-Wesley|

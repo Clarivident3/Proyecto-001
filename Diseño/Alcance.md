@@ -1,3 +1,6 @@
+### Alcance
+
+
 ## El sistema puede                      
 Llevar un registro de asistencias en tiempo real      
 Permitir realizar Altas/Bajas/Cambios de materia      

@@ -1,5 +1,5 @@
 # ID
-- UC - 007
+- UC - 006
 
 # Caso de uso
 - Borrar alumno

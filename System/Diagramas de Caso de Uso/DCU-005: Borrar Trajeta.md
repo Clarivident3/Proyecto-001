@@ -1,2 +1,2 @@
-# DCU-007: Borrar Tarjeta
+# DCU-005: Borrar Tarjeta
 ![Texto Alternativo](https://github.com/TtheCrazyMeats/imagenes/blob/main/6%20borrar%20tarjeta.png)

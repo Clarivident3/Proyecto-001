@@ -4,7 +4,6 @@ Este sistema permitirá registrar la asistencia de los estudiantes a través de 
 El profesor de cada materia tendra acceso al aplicativo y si la aplicación se elimina se perdera toda la información.
 
 Integrantes del equipo: 
-- Cordero Tovar Fernando Alexis.
 - Escamilla Cuevas José Octavio.
 - Ramírez Herrera Francisco.
 [![ADK-0001.jpg](https://i.postimg.cc/rySM0w69/ADK-0001.jpg)](https://postimg.cc/MXKhgxpc)
